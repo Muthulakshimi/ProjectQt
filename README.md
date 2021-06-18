@@ -16,3 +16,6 @@ Then clicking on the "window with an image" button this is the output:
 
 When the user clicks the "window with a file" button he/she can edit and preview the text in the file..
 
+![Capture](https://user-images.githubusercontent.com/49741335/122616154-7a9a9900-d0a7-11eb-8f81-e90c8b4c1c80.PNG)
+
+It's amazing to find how every line in the code adds meaning to make 2 basic buttons!!
